@@ -25,7 +25,7 @@ class AmazonTests:
         return "junhoramos033@gmail.com"
 
     def get_password(self):
-        return "Pruebaauto@"
+        return "*********"
 
     def login(self):
         driver = self.driver
