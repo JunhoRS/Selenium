@@ -22,7 +22,7 @@ class AmazonTests:
         self.results_dir = "results"
 
     def get_email(self):
-        return "junhoramos033@gmail.com"
+        return "******************"
 
     def get_password(self):
         return "*********"
